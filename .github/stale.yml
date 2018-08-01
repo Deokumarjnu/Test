@@ -1,6 +1,6 @@
 daysUntilStale: 1
 
-timeToPost: 1830
+timeToPost: 1837
 
 # Number of days of inactivity before a stale Issue or Pull Request is closed.
 # Set to false to disable. If disabled, issues still need to be closed manually, but will remain marked as stale.
