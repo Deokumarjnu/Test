@@ -2,6 +2,8 @@ daysUntilStale: 1
 
 timeToPost: 1853
 
+slackWebhookUrl: https://hooks.slack.com/services/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
+
 # Number of days of inactivity before a stale Issue or Pull Request is closed.
 # Set to false to disable. If disabled, issues still need to be closed manually, but will remain marked as stale.
 # daysUntilClose: 7
